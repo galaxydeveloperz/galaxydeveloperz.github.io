@@ -1,0 +1,15 @@
+.first {
+   text-align: center;
+   font-family: 'Roboto', sans-serif;
+   color: #fff;
+}
+.second
+   text-align: left;
+   font-family: 'Roboto', sans-serif;
+   color: #fff;
+}
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #000;
+ }    
