@@ -1,0 +1,13 @@
+body {
+   background-color: black; 
+}
+.title {
+   text-align: center;
+   font-family: 'Roboto', sans-serif;
+   color: white;
+  }
+.rules {
+    text-align: left;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}  
