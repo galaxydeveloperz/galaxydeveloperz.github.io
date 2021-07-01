@@ -76,11 +76,11 @@ body{
 .wrapper .name{
   font-size: 23px;
   font-weight: 500;
-  color: #31344b;
+  color: #fffff;
   margin: 10px 0 5px 0;
 }
 .wrapper .about{
-  color: #44476a;
+  color: #fffff;
   font-weight: 400;
   font-size: 16px;
 }
