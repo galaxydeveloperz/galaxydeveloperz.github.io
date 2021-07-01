@@ -17,8 +17,8 @@ body{
 .social-icons a,
 .buttons button{
   background: #2e2e2e;
-  box-shadow: -3px -3px 7px #ffffff,
-               3px 3px 5px #ceced1;
+  box-shadow: -3px -3px 7px #2e2e2e,
+               3px 3px 5px #2e2e2e;
 }
 .wrapper{
   position: relative;
