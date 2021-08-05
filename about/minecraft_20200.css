@@ -10,15 +10,15 @@ body{
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: #2e2e2e;
+  background: #ecf0f3;
 }
 .wrapper,
 .wrapper .img-area,
 .social-icons a,
 .buttons button{
-  background: #2e2e2e;
-  box-shadow: -3px -3px 7px #2e2e2e,
-               3px 3px 5px #2e2e2e;
+  background: #ecf0f3;
+  box-shadow: -3px -3px 7px #ffffff,
+               3px 3px 5px #ceced1;
 }
 .wrapper{
   position: relative;
@@ -70,7 +70,7 @@ body{
 .inner-area img{
   height: 100%;
   width: 100%;
-  border-radius: 0%;
+  border-radius: 50%;
   object-fit: cover;
 }
 .wrapper .name{
@@ -107,8 +107,8 @@ body{
   right: 0;
   border-radius: 50%;
   background: #ecf0f3;
-  box-shadow: inset -3px -3px 7px #2e2e2e,
-              inset 3px 3px 5px #2e2e2e;
+  box-shadow: inset -3px -3px 7px #ffffff,
+              inset 3px 3px 5px #ceced1;
 }
 .buttons button:hover:before{
   z-index: -1;
@@ -228,7 +228,7 @@ html,body{
   height: 100%;
   width: 100%;
   place-items: center;
-  background: linear-gradient(#525252, #525252 0%, #525252 74%);
+  background: linear-gradient(315deg, #ffffff 0%, #d7e1ec 74%);
 }
 .wrapper{
   display: inline-flex;
