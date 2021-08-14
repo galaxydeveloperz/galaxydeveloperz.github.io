@@ -15,7 +15,7 @@ The rules are still there but it is coming soon, Follow mem20200 Discord rules a
 ## 1- HTML 
 short for Hyper Text Markup Language every website requires html.
 ## 2- CSS
-CSS short for Cascading Style Sheets if you want the code to link your CSS to your html heres the code
+CSS short for Cascading Style Sheets if you want the code to link your CSS to your html heres the code put it in the header html
 ```
 <link rel="stylesheet" href="<css name>.css">
 ```
