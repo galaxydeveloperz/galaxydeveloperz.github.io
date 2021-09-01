@@ -5,6 +5,9 @@ You can go to the website by two ways
 ## 1- Copy this and paste it in a new tab 
 
 ```
+home.git20200.gq
+```
+```
 git20200.gq
 ```
 ## 2- Click on the text below you will be sent to the url 
@@ -45,7 +48,9 @@ You could join my discord server and describe the issue in chat [Discord Server]
 ## 2- Friend me in disocrd
 Heres my discord username 
 <br>
-Minecraft_20200#0001
+```
+Minecraft_20200#2175
+```
 ## Now you learnt how to make a website
 
 
