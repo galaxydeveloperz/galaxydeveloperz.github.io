@@ -1,3 +1,4 @@
+<a href="https://discord.gg/c9xxRF7eFb"><img src="https://img.shields.io/discord/783309924171644938?color=5865F2&logo=discord&logoColor=white" alt="Discord" /></a>
 ## Welcome User!
 This is our github pages website built by html, CSS and JavaScript
 ## How do I go to the website?
