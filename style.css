@@ -4,5 +4,13 @@
    background-image: url(https://git20200.gq/HJ2PN9.webp);
 }
 a {
- align="center"
+ align: "center";
+}
+h2 {
+   font-family: 'Roboto', sans-serif;
+   text-align: "center";
+}
+h3 {
+   font-family: 'Roboto', sans-serif;
+   text-align: "center";
 }
