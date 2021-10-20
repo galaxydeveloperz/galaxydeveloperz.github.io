@@ -208,3 +208,15 @@ ul a {
     width: 100%;
   }
 }
+article {
+  position: relative;
+  background-color: #fff;
+  padding: 20px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  width: 45%;
+  align-items: center;
+  text-align: center;
+  margin: 10px 0 10px 0;
+  margin-left: 20%;
+}
