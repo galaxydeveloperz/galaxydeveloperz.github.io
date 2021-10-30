@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: git20200.gq
-Token: f0f01a86508c91e97ea15b435cef1045442c19123c03947aa103f7f75e9780b0
